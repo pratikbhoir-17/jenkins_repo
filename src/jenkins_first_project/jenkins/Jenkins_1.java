@@ -9,7 +9,9 @@ public class Jenkins_1 {
 		
 		System.out.println("This is my First Jenkins Java Application");
 		
-		System.out.println("We are building Jenkins Job");
+		System.out.print("We are building Jenkins Job");
+		
+		System.out.println(" ,build is running successfully");
 		
 		System.out.println(new Date());
 
